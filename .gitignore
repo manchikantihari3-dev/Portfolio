@@ -1,0 +1,20 @@
+# Mac system files
+.DS_Store
+
+# Windows image cache files
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# IDE files
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Node (just in case they ever add it)
+node_modules/
+npm-debug.log
+yarn-error.log
